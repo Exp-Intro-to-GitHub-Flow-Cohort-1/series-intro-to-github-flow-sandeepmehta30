@@ -44,7 +44,6 @@ Branches allow you to separate your work from the `main` branch. In other words,
 2. Navigate to the **< > Code** tab in the header menu of your repository.
 
    ![code-tab](/images/code-tab.png)
-
 3. Click on the **main** branch drop-down.
 
    ![main-branch-dropdown](/images/main-branch-dropdown.png)
